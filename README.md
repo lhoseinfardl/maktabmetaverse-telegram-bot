@@ -29,24 +29,6 @@ A simple Telegram bot about MetaVerse that provides information about MetaVerse,
 
 2. اطلاعات شخصی خود را از خط 84 تا 89 فایل `index.php` وارد کنید:
 
-    ```php
-$dev = array("1089674456","00000000","00000000"); //user id admin
-
-```
-```
-```php
-$channel = "maktabmetaverse";//username channel - @
-```
- ```php
-$token = API_KEY; // dont touch 
-```
- ```php
-$bot = maktabmetaverserobot;//username bot - @
-```
-```php
-$web = "https://lhoseinfardl.ir/maktab/";  // web addres
-   ```
-
 
 دستورات ربات:
 
