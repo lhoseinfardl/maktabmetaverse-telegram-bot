@@ -31,6 +31,8 @@ A simple Telegram bot about MetaVerse that provides information about MetaVerse,
 
     ```php
 $dev = array("1089674456","00000000","00000000"); //user id admin
+
+```
 ```
 ```php
 $channel = "maktabmetaverse";//username channel - @
